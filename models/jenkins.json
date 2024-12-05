@@ -1,6 +1,6 @@
 {
   "type": "micro",
-  "wake_word": "jenkins",
+  "wake_word": "Jenkins",
   "author": "Shane",
   "website": "https://cssnr.com/",
   "model": "jenkins.tflite",
